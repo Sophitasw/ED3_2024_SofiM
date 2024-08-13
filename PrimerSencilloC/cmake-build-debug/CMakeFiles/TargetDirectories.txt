@@ -1,0 +1,3 @@
+C:/Users/Sofi/CLionProjects/ED3_2024/PrimerSencilloC/cmake-build-debug/CMakeFiles/PrimerSencilloC.dir
+C:/Users/Sofi/CLionProjects/ED3_2024/PrimerSencilloC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sofi/CLionProjects/ED3_2024/PrimerSencilloC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
